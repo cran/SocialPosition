@@ -13,7 +13,7 @@ convert_from_ISCO08_to_ISCO88_3d(ISCO08, data)
 %- maybe also 'usage' for other objects documented here.
 \arguments{
   \item{ISCO08}{
-The name of the variable containing \href{'http://www.ilo.org/public/english/bureau/stat/isco/isco08/'}{the ISCO 2008 codes}, ideally coded on 4 digits, although the function also supportes variables coded on 3 digits, and even on 2 digits
+The name of the variable containing \href{http://www.ilo.org/public/english/bureau/stat/isco/isco08/}{the ISCO 2008 codes}, ideally coded on 4 digits, although the function also supportes variables coded on 3 digits, and even on 2 digits
 }
   \item{data}{
 The name of the dataset
@@ -37,7 +37,7 @@ Documentation on the ISCO 2008 and 1988 can be found on the ILO website:
 	}
 }
 \author{
-Julie Falcon (Berlin Social Science Center - WZB)
+Julie Falcon (University of Lausanne)
 }
 %\note{
 %%  ~~further notes~~

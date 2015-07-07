@@ -6,21 +6,21 @@
 Social Position Indicators Construction Toolbox
 }
 \description{
-Provides to sociologists (and related scientists) a toolbox to facilitate the construction of social position indicators from survey data. Social position indicators refer to what is commonly known as social class and social status. There exists in the sociological literature many theoretical conceptualisation and empirical operationalisation of social class and social status. This first version of the package offers tools to construct the International Socio-Economic Index of Occupational Status (ISEI) and the Oesch social class schema. It also provides tools to convert several occupational classifications (PCS82, PCS03, and ISCO08) into a common one (ISCO88) to facilitate data harmonisation work, and tools to collapse (i.e. group) modalities of social position indicators.
+Provides to sociologists (and related scientists) a toolbox to facilitate the construction of social position indicators from survey data. Social position indicators refer to what is commonly known as social class and social status. There exists in the sociological literature many theoretical conceptualisation and empirical operationalization of social class and social status. This first version of the package offers tools to construct the International Socio-Economic Index of Occupational Status (ISEI) and the Oesch social class schema. It also provides tools to convert several occupational classifications (PCS82, PCS03, and ISCO08) into a common one (ISCO88) to facilitate data harmonisation work, and tools to collapse (i.e. group) modalities of social position indicators.
 }
 \details{
 \tabular{ll}{
 Package: \tab SocialPosition\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2015-01-25\cr
+Version: \tab 1.0.1\cr
+Date: \tab 2015-07-07\cr
 License: \tab GPL-2 | GPL-3\cr
 }
 
 Three main types of functions are available in the package:
 \describe{
 	\item{The "collapse"functions:}{These functions collapse (i.e. group) different modalities of an occupational grid together}
-	\item{The "convert" functions:}{These functions convert different occupational classifications into another one. This can be very useful when you want to harmonised different datasets.}	
+	\item{The "convert" functions:}{These functions convert different occupational classifications into another one. This can be very useful when you want to harmonize different datasets.}	
 	\item{The "recode" functions:}{These functions are specifically the ones which enable you to construct social position indicators}	
 }
 For the moment, we have developed conversion tools mostly on:
@@ -51,9 +51,9 @@ In the future, we will implement more conversion and recoding tools. If you woul
 %}
 }
 \author{
-Julie Falcon (Berlin Social Science Center - WZB)
+Julie Falcon (University of Lausanne)
 
-Maintainer: Julie Falcon <julie.falcon@wzb.eu>
+Maintainer: Julie Falcon <julie.falcon@unil.ch>
 }
 %\references{
 %~~ Literature or other references for background information ~~

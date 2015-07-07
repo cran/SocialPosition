@@ -14,7 +14,7 @@ SE_ten_plus_emp, not_SE, data)
 %- maybe also 'usage' for other objects documented here.
 \arguments{
   \item{ISCO88}{
-The name of the variable containing \href{'http://www.ilo.org/public/english/bureau/stat/isco/isco88/index.htm'}{ISCO 1988 codes}, ideally coded on 4 digits, although the function also supportes variables coded on 3 digits, and even on 2 digits
+The name of the variable containing \href{http://www.ilo.org/public/english/bureau/stat/isco/isco88/index.htm}{ISCO 1988 codes}, ideally coded on 4 digits, although the function also supportes variables coded on 3 digits, and even on 2 digits
 }
   \item{EMP_STA}{
 The name of the variable containing the corresponding employment status of the occupation. This variable must specify for the self-employed the number of employee they employ. Ideally, this number should be coded in the form of a continuous variable, although in some surveys it takes the form of a categorical variable. It must also have a modality for those who are not self-employed. What is important is to be able to distinguish: 
@@ -70,7 +70,7 @@ Further information can also be found on Daniel Oesch's website:
 \url{http://people.unil.ch/danieloesch/socialclasssyntax/}
 }
 \author{
-Julie Falcon (Berlin Social Science Center - WZB)
+Julie Falcon (University of Lausanne)
 }
 %\note{
 %%  ~~further notes~~

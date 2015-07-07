@@ -38,7 +38,7 @@ Documentation on the French Professions et Categories Socioprofessionnelles (PCS
 	}
 }
 \author{
-Julie Falcon (Berlin Social Science Center - WZB)
+Julie Falcon (University of Lausanne)
 }
 %\note{
 %%  ~~further notes~~

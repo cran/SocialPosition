@@ -13,7 +13,7 @@ convert_from_PCS2003_4l_to_ISCO88_3d(PCS2003_4l, data)
 %- maybe also 'usage' for other objects documented here.
 \arguments{
   \item{PCS2003_4l}{
-The name of the variable containing \href{'http://insee.fr/fr/methodes/default.asp?page=nomenclatures/pcs2003/liste_n4.htm'}{the French PCS 2003 coded on 4 levels} (i.e. 3 digits followed by 1 letter, such as 226a)
+The name of the variable containing \href{http://insee.fr/fr/methodes/default.asp?page=nomenclatures/pcs2003/liste_n4.htm}{the French PCS 2003 coded on 4 levels} (i.e. 3 digits followed by 1 letter, such as 226a)
 }
   \item{data}{
 The name of the dataset
@@ -37,7 +37,7 @@ Documentation on the French Professions et Categories Socioprofessionnelles (PCS
 	}
 }
 \author{
-Julie Falcon (Berlin Social Science Center - WZB)
+Julie Falcon (University of Lausanne)
 }
 %\note{
 %%  ~~further notes~~

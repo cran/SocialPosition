@@ -13,7 +13,7 @@ collapse_PCS2003_2l(PCS2003_2l, data)
 %- maybe also 'usage' for other objects documented here.
 \arguments{
   \item{PCS2003_2l}{
-The name of the variable containing \href{'http://insee.fr/fr/methodes/default.asp?page=nomenclatures/pcs2003/liste_n2.htm'}{the French PCS 2003 coded on 2 levels}
+The name of the variable containing \href{http://insee.fr/fr/methodes/default.asp?page=nomenclatures/pcs2003/liste_n2.htm}{the French PCS 2003 coded on 2 levels}
 }
   \item{data}{
 The name of the dataset
@@ -35,7 +35,7 @@ Documentation on the French Professions et Categories Socioprofessionnelles (PCS
 \url{http://insee.fr/fr/methodes/default.asp?page=nomenclatures/pcs2003/pcs2003.htm}
 }
 \author{
-Julie Falcon (Berlin Social Science Center - WZB)
+Julie Falcon (University of Lausanne)
 }
 %\note{
 %%  ~~further notes~~

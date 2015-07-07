@@ -13,7 +13,7 @@ recode_from_ISCO88_to_ISEI(ISCO88, data)
 %- maybe also 'usage' for other objects documented here.
 \arguments{
   \item{ISCO88}{
-The name of the variable containing \href{'http://www.ilo.org/public/english/bureau/stat/isco/isco88/index.htm'}{ISCO 1988 codes}, ideally coded on 4 digits, although the function also supportes variables coded on 3 digits, and even on 2 digits
+The name of the variable containing \href{http://www.ilo.org/public/english/bureau/stat/isco/isco88/index.htm}{ISCO 1988 codes}, ideally coded on 4 digits, although the function also supportes variables coded on 3 digits, and even on 2 digits
 }
   \item{data}{
 The name of the dataset
@@ -44,7 +44,7 @@ This syntax is part of the "International Stratification and Mobility File" proj
 \href{http://www.harryganzeboom.nl/ISMF/index.htm}{Ganzeboom, Harry B.G.; Treiman, Donald J., 'International Stratification and Mobility File: Conversion Tools'}
 }
 \author{
-Julie Falcon (Berlin Social Science Center - WZB)
+Julie Falcon (University of Lausanne)
 }
 %\note{
 %%  ~~further notes~~

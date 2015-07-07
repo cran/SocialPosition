@@ -19,7 +19,7 @@ This dataset is a random subsample of the Swiss MOSAiCH survey 2007
 %%  ~~ If necessary, more details than the __description__ above ~~
 %}
 \source{
-The data was generated from the Swiss MOSAiCH 2007 survey distributed by \href{'http://forscenter.ch/fr/'}{FORS}}
+The data was generated from the Swiss MOSAiCH 2007 survey distributed by \href{http://forscenter.ch/fr/}{FORS}}
 %\references{
 %%  ~~ possibly secondary sources and usages ~~
 %}
